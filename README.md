@@ -10,3 +10,9 @@ git commit -am "COMENTARIO"
 
 - Para actualizar los cambios de local a mi repo de Github hago push
 git push
+
+-Para crear una nueva rama
+git branch NOMBRERAMA
+
+- Para cambiarme de rama
+git checkout NOMBRERAMA
