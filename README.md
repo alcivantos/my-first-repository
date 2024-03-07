@@ -11,8 +11,12 @@ git commit -am "COMENTARIO"
 - Para actualizar los cambios de local a mi repo de Github hago push
 git push
 
--Para crear una nueva rama
+-Para crear una nueva rama en local
 git branch NOMBRERAMA
+
+- Para generar esta rama en el repo de Github
+git push --set-upstream origin test-branch
 
 - Para cambiarme de rama
 git checkout NOMBRERAMA
+
